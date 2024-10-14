@@ -1,0 +1,1082 @@
+{
+    "AMP": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "AWC": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "BeUsa": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Champion": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Dynamis": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Electro_Quip": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Electro_Tech": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "EnQuest": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Evolution": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Fernando": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "HMH": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Inbox": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Jelec": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Kinetic": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Luke": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "Quadvest": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "SLB_CAM": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    },
+    "sent_items": {
+        "columns": [
+            {
+                "name": "id",
+                "type": "INTEGER"
+            },
+            {
+                "name": "email_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "subject",
+                "type": "TEXT"
+            },
+            {
+                "name": "body",
+                "type": "TEXT"
+            },
+            {
+                "name": "sender",
+                "type": "TEXT"
+            },
+            {
+                "name": "receiver",
+                "type": "TEXT"
+            },
+            {
+                "name": "sent_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "received_time",
+                "type": "TEXT"
+            },
+            {
+                "name": "replied_to",
+                "type": "INTEGER"
+            },
+            {
+                "name": "in_thread",
+                "type": "INTEGER"
+            },
+            {
+                "name": "summary",
+                "type": "TEXT"
+            },
+            {
+                "name": "classification",
+                "type": "TEXT"
+            },
+            {
+                "name": "conversation_id",
+                "type": "TEXT"
+            },
+            {
+                "name": "id",
+                "type": "AUTOINCREMENT"
+            }
+        ]
+    }
+}
